@@ -1,0 +1,113 @@
+{
+    "courses": [
+        {
+            "name": "Fundamentals of Cooperatives",
+            "explanation": "Organizing small agribusinesses into cooperatives can create a business that is stronger and better able to address the needs of customers. The goal of this learning path is to familiarize cooperative leaders and extension agents with concepts that are critical to starting, building, and leading cooperatives. By the end of this learning path, learners should be able to describe how cooperatives differ from other types of businesses. They should also be able to describe the qualities of a good cooperative leader and explain how to build strong relationships with members.",
+            "content": [
+                "Understanding Cooperatives - Introduction to Cooperatives",
+                "Understanding Cooperatives - Cooperative Values and Principles",
+                "Understanding Cooperatives - Cooperative Governance",
+                "Leadership - Introduction to Leadership",
+                "Leadership - Managing Meetings",
+                "Leadership - Resolving Conflicts",
+                "Member Relations - Introduction to Member Relations",
+                "Member Relations - Member Recruitment and Retention",
+                "Member Relations - Member Engagement and Commitment",
+                "Member Relations - Member Management"
+            ]
+        },
+        {
+            "name": "Bookkeeping Essentials",
+            "explanation": "Accurate bookkeeping is key to operating a successful business. The goal of this learning path is to help small business owners and managers gain the knowledge and skills to track financial transactions and plan future business activities. At this introductory level, learners should be able to perform bookkeeping processes that allow a hired accountant to conduct financial analyses and prepare financial statements. By the end of this learning path, learners should be able to explain the five steps in the accounting cycle and maintain simple cash and inventory ledgers.",
+            "content": [
+                "Bookkeeping and Your Business - Introduction to Bookkeeping",
+                "Bookkeeping and Your Business - The Accounting Cycle",
+                "Bookkeeping and Your Business - Importance of Financial Statements",
+                "Bookkeeping Ledgers - Cash Ledger",
+                "Bookkeeping Ledgers - Inventory Ledger",
+                "Bookkeeping Ledgers - Expense Ledger"
+            ]
+        },
+        {
+            "name": "Producer Organization (PO) Essentials",
+            "explanation": "Keep accurate bookkeeping records. Run an effective operation. Meet customer expectations. The most competitive producer organizations do these three things well. This learning path is for the leaders of agricultural cooperatives, producer associations, and other producer organizations (POs). The goal of the learning path is to help POs become better-organized, more reliable suppliers. Learners will practice completing bookkeeping ledgers that are essential to PO operations. They will also implement practices that help their POs deliver product on time, in the right quantity, and to the expected quality standard.",
+            "content": [
+                "Operations - Introduction to Operations",
+                "Operations - Collection from Farmers",
+                "Operations - Receiving and Storage",
+                "Operations - Delivery to Buyers",
+                "Bookkeeping for Producer Organizations - Introduction to Bookkeeping",
+                "Bookkeeping for Producer Organizations - Cash Ledger",
+                "Bookkeeping for Producer Organizations - Expense Ledger",
+                "Bookkeeping for Producer Organizations - Farmer Business Ledger",
+                "Bookkeeping for Producer Organizations - Inventory Ledger",
+                "Bookkeeping for Producer Organizations - The Fixed Asset Ledger"
+            ]
+        },
+        {
+            "name": "Business Sustainability",
+            "explanation": "A sustainable business adds value and has positive impacts on its environment, employees, and community. Increasingly, businesses that promote the well-being of people and planet are more competitive than those that do not. The goal of this learning path is to help business managers take actions that will make their businesses more environmentally, economically, and socially sustainable. By the end of this learning path, learners should be able to state specific actions they will take to reduce their harm to the environment, safeguard the health and well-being of employees, and promote the inclusion of overlooked groups \u2013 such as women and youth \u2013 in their businesses.",
+            "content": [
+                "Sustainability - Introduction to Sustainability",
+                "Sustainability - Hazardous Product Management",
+                "Sustainability - Environmental Impacts",
+                "Sustainability - Fair Labor Practices",
+                "Sustainability - Diversity",
+                "Sustainability - Community Initiatives",
+                "Women's Inclusion - Introduction to Women's Inclusion",
+                "Women's Inclusion - Women's Participation in Cooperatives",
+                "Women's Inclusion - Women's Economic Empowerment"
+            ]
+        },
+        {
+            "name": "Internal Management",
+            "explanation": "Internal management refers to the rules, structures, and systems a business uses to organize its activities and resources. Businesses with good internal management are better organized and more likely to have the right people in the right jobs. The goal of this learning path is to help agribusiness leaders improve processes related to recordkeeping and human resource management. By the end of this learning path, learners should know what actions to take to maintain paper or digital records, limit corruption, and hire and keep qualified people.",
+            "content": [
+                "Staff Management - Introduction to Staff Management",
+                "Staff Management - Recruiting and Hiring Staff",
+                "Staff Management - Strategies for Retaining Staff",
+                "Internal Organization - Introduction to Internal Organization",
+                "Internal Organization - Recordkeeping",
+                "Internal Organization - Preventing Corruption"
+            ]
+        },
+        {
+            "name": "Finance and Accounting",
+            "explanation": "Proper financial management is critical to the success of any business. Business owners and finance and accounting managers are responsible for knowing the financial health of the business. Financial statements and budgets are used to monitor and manage financial resources. This helps business owners and managers make better decisions and plan future expenses. By the end of this learning path, learners should be able to track the movement of money in and out of the business, summarize the business\u2019s financial situation, and prepare documentation to support a credit application.",
+            "content": [
+                "Finance and Accounting Basics - Introduction to Finance and Accounting",
+                "Finance and Accounting Basics - Financial Statements",
+                "Finance and Accounting Basics - Balance Sheets",
+                "Finance and Accounting Basics - Income Statements",
+                "Finance and Accounting Basics - Cash Flow Statements",
+                "Finance and Accounting Basics - Allocation of Surplus (for Cooperatives)",
+                "Financial Analysis and Planning - Introduction to Financial Analysis and Planning",
+                "Financial Analysis and Planning - Balance Sheet Analysis",
+                "Financial Analysis and Planning - Income Statement Analysis",
+                "Financial Analysis and Planning - Cash Budgets",
+                "Financial Analysis and Planning - Cash Reserves",
+                "Working with Credit - Introduction to Credit",
+                "Working with Credit - Working with Lenders",
+                "Working with Credit - Credit for Customers"
+            ]
+        },
+        {
+            "name": "Growing Your Business",
+            "explanation": "Success does not happen by chance \u2013 businesses need to plan for it. Planning becomes even more important as businesses grow. Planning is critical not only to the business planning process, but also to functional areas like marketing and operations. This learning path is for leaders who want to sustainably grow their agribusinesses through better planning, marketing, and risk management. Learners will finish this learning path knowing how to assess their business and the market, how to develop SMART objectives, and how to reduce risk through a three-step process.",
+            "content": [
+                "Planning For Your Business - Introduction to Planning",
+                "Planning For Your Business - Mission and Vision Statements",
+                "Planning For Your Business - SWOT Analysis",
+                "Planning For Your Business - Objective Setting",
+                "Planning For Your Business - Budgeting",
+                "Marketing - Introduction to Marketing",
+                "Marketing - Vision for Growth",
+                "Marketing - Pricing Strategy",
+                "Marketing - Marketing Strategy",
+                "Managing Risk - Introduction to Managing Risk",
+                "Managing Risk - Using Contracts",
+                "Managing Risk - Working with Enablers"
+            ]
+        }
+    ]
+}
